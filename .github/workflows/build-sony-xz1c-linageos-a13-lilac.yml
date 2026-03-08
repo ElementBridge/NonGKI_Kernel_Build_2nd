@@ -1,4 +1,4 @@
-name: Build Sample YAML
+name: Build Xperia XZ1 Compact (lineage-20-A13)
 
 on:
   workflow_call:
